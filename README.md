@@ -40,4 +40,4 @@ likeit -p absolute_path
 # e.g.: likeit -p /workspace/go/src/likeit
 ```
 
-![](https://img-blog.csdnimg.cn/f9b5406c7fe9408a89629dc09bea8cee.png)
+![](https://img-blog.csdnimg.cn/102637a112104975ac751f91a9ede915.jpg)

@@ -31,7 +31,7 @@ windows
 likeit.exe -p absolute_path
 # e.g.: likeit.exe -p F:\go\src\likeit
 ```
-
+![](https://img-blog.csdnimg.cn/db6901290ecc43968645dbe30bb53d4b.png)
 
 
 linux
@@ -39,3 +39,5 @@ linux
 likeit -p absolute_path
 # e.g.: likeit -p /workspace/go/src/likeit
 ```
+
+![](https://img-blog.csdnimg.cn/f9b5406c7fe9408a89629dc09bea8cee.png)
